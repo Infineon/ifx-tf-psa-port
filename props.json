@@ -1,0 +1,8 @@
+{
+    "configurator_support": false,
+    "core": {
+        "id": "3F7A2C1E-9B4D-4E8A-A6C1-2D5F8B0E7A93",
+        "name": "ifx-tf-psa-crypto"
+    },
+    "opt": {}
+}
